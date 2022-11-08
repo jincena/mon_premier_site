@@ -9,5 +9,6 @@
     <h1> RGPD </h1>
     <p> le RGPD signifie: règlement général sur la protection des données </p>
     <p>
+    <img scr="https://www.simt.fr/wp-content/uploads/2019/04/RGPD.jpg">
 </body>
 </html>
